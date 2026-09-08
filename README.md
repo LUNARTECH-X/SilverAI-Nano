@@ -1,3 +1,26 @@
+<p align="center">
+  <img src="assets/lunartech-banner.png" alt="LUNARTECH" width="100%">
+</p>
+
+<h1 align="center">L U N A R T E C H</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/lunartechai/">LUNARTECH on LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/vahe-aslanyan/">Vahe Aslanyan on LinkedIn</a>
+</p>
+
+**LUNARTECH** builds applied AI systems and the training that goes with them.
+
+| | |
+|---|---|
+| **Organization** | LUNARTECH |
+| **Project** | SilverAI Nano |
+| **LUNARTECH on LinkedIn** | https://www.linkedin.com/company/lunartechai/ |
+| **Vahe Aslanyan on LinkedIn** | https://www.linkedin.com/in/vahe-aslanyan/ |
+
+---
+
 # SilverAI Nano
 
 **A LUNARTECH project.**
@@ -175,7 +198,10 @@ not leave a document behind with no retrievable chunks.
 
 ## About LUNARTECH
 
-LunarTech builds applied AI systems and the training that goes with them.
+LUNARTECH builds applied AI systems and the training that goes with them. Follow
+the work on LinkedIn:
 
-- LunarTech on LinkedIn: https://www.linkedin.com/company/lunartechai/
-- Vahe Aslanyan on LinkedIn: https://www.linkedin.com/in/vahe-aslanyan/
+- LUNARTECH: https://www.linkedin.com/company/lunartechai/
+- Vahe Aslanyan: https://www.linkedin.com/in/vahe-aslanyan/
+
+Built and maintained by LUNARTECH.
