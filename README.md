@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/vahe-aslanyan/">Vahe Aslanyan on LinkedIn</a>
 </p>
 
-**LUNARTECH** builds applied AI systems and the training that goes with them.
+**LUNARTECH builds applied deep tech systems.**
 
 | | |
 |---|---|
@@ -198,8 +198,7 @@ not leave a document behind with no retrievable chunks.
 
 ## About LUNARTECH
 
-LUNARTECH builds applied AI systems and the training that goes with them. Follow
-the work on LinkedIn:
+LUNARTECH builds applied deep tech systems. Follow the work on LinkedIn:
 
 - LUNARTECH: https://www.linkedin.com/company/lunartechai/
 - Vahe Aslanyan: https://www.linkedin.com/in/vahe-aslanyan/
