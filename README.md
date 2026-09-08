@@ -10,20 +10,25 @@
   <a href="https://www.linkedin.com/in/vahe-aslanyan/">Vahe Aslanyan on LinkedIn</a>
 </p>
 
-**LUNARTECH builds applied deep tech systems.**
-
-| | |
-|---|---|
-| **Organization** | LUNARTECH |
-| **Project** | SilverAI Nano |
-| **LUNARTECH on LinkedIn** | https://www.linkedin.com/company/lunartechai/ |
-| **Vahe Aslanyan on LinkedIn** | https://www.linkedin.com/in/vahe-aslanyan/ |
+<p align="center"><strong>LUNARTECH builds applied deep tech systems.</strong></p>
 
 ---
 
 # SilverAI Nano
 
-**A LUNARTECH project.**
+> A LUNARTECH project. Turn any PDF into a searchable knowledge base and a
+> 20,000-word handbook grounded in it.
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776ab)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/UI-Streamlit-ff4b4b)](https://streamlit.io/)
+[![Supabase](https://img.shields.io/badge/Supabase-pgvector-3ecf8e)](https://supabase.com/)
+[![Grok](https://img.shields.io/badge/LLM-Grok-1d9bf0)](https://x.ai/)
+[![Embeddings](https://img.shields.io/badge/Embeddings-MiniLM%20384d-f7931e)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+[![Tests](https://img.shields.io/badge/tests-20%20passing-brightgreen)](tests/)
+
+**Upload a PDF -> Ask questions with page citations -> Generate a 20,000-word handbook**
+
+---
 
 SilverAI Nano turns a PDF into a searchable knowledge base and, from that same
 source material, generates a structured long-form handbook of 20,000 words or
